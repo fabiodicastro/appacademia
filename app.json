@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "App Academia",
+    "slug": "appacademia",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
